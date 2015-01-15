@@ -21,11 +21,11 @@ android {
     buildToolsVersion "21.1.1"
 
     defaultConfig {
-        applicationId "ue.softisland.plavent"
+        applicationId "pl.touk.androstrap"
         minSdkVersion 17
         targetSdkVersion 21
         versionCode 1
-        versionName "0.1"
+        versionName "0.5.0"
     }
     
     compileOptions {
